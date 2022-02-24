@@ -1,12 +1,15 @@
 
 body{
-    width: 1440px;
+    width: 100%;
     background-color: #181717;
     font-family: 'Space Grotesk';
     margin: 0;
     padding: 0;
 }
 /*Start of Header section*/
+header{
+    width: 100%;
+}
 #logo-img{
     position: absolute;
     margin-left: 40px;
